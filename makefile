@@ -3,5 +3,5 @@ commit:
 	git add .
 	git commit -m "update"
 
-push: commit
+push:
 	git push
