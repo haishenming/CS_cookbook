@@ -5,3 +5,5 @@ commit:
 
 push:
 	git push
+
+all: commit push
